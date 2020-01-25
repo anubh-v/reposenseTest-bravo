@@ -3,3 +3,4 @@
 - tomato
 - grapes
 - pears
+- pineapple
